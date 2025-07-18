@@ -32,7 +32,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=sashimye&theme=blue_navy&hide_border=false" />
 </div>
 
-### 🎲 Random Dev Quote + GIF
+### 🎲 Random Dev Quote:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
