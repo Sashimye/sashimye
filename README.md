@@ -1,29 +1,29 @@
 ## About Me:
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
-  <div>
-    <h3>📚 Currently Learning:</h3>
-    <ul>
-      <li>Python: Mastering the basics and building mini projects</li>
-      <li>Coming soon: SQL, Linux, and fundamentals of cybersecurity</li>
-    </ul>
-  </div>
-  <div>
-    <h3>🎯 Goals:</h3>
-    <ul>
-      <li>Learn how computers get hacked, and how to stop it</li>
-      <li>Build strong foundations in scripting, networking & security tools</li>
-      <li>Eventually work in cybersecurity as an ethical hacker or analyst</li>
-    </ul>
-  </div>
-  <div>
-    <h3>📫 Let's connect:</h3>
-    <ul>
-      <li>LinkedIn (coming soon)</li>
-      <li>GitHub DMs always open</li>  
-    </ul>
-  </div>
-</div>
+```yaml
+📚 Currently Learning:
+[
+  "Python - Mastering the basics and building mini projects"
+  "Coming soon - SQL, Linux, and fundamentals of cybersecurity"
+]
+🎯 Goals:
+[
+  "Learn how computers get hacked, and how to stop it"
+  "Build strong foundations in scripting, networking & security tools"
+  "Eventually work in cybersecurity as an ethical hacker or analyst"
+]
+📫 Let's connect:
+[
+  LinkedIn - (coming soon)
+  GitHub - DMs always open
+]
+
+```
+## Some Tools I Have Used and Learned:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+</p>
 
 ## GitHub Stats:
 
