@@ -4,6 +4,7 @@
 📚 Currently Learning:
 [
   "Python - Mastering the basics and building mini projects"
+  "HTML, CSS, GitHub Pages: Web dev essentials and site publishing"
   "Coming soon - SQL, Linux, and fundamentals of cybersecurity"
 ]
 🎯 Goals:
