@@ -28,8 +28,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=sashimye&theme=blue_navy&hide_border=false" />
 </div>
 
-## Tools I Have Used and Learned:
-<p align="left">
+## Tools I am Learning and Using:
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
 </p>
