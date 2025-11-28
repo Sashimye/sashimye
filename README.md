@@ -23,7 +23,7 @@
 
 ## GitHub Stats:
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=sashimye&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=sashimye&theme=blue_navy&hide_border=false" />
 </div>
