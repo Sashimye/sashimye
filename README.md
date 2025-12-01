@@ -1,22 +1,24 @@
 ## About Me:
 
 ```yaml
-📚 Currently Learning:
+📚 Currently Learning
 [
-  "Python - Mastering the basics and building mini projects"
-  "HTML, CSS, GitHub Pages: Web dev essentials and site publishing"
-  "Coming soon - SQL, Linux, and fundamentals of cybersecurity"
+•	Deep into: HTML, CSS, and JavaScript — building real projects and leveling up my web dev skills
+•	Python: getting comfortable with the basics through small challenges
+•	Next up: SQL + a first look into cybersecurity fundamentals
 ]
-🎯 Goals:
+
+🎯 Goals
 [
-  "Learn how computers get hacked, and how to stop it"
-  "Build strong foundations in scripting, networking & security tools"
-  "Eventually work in cybersecurity as an ethical hacker or analyst"
+•	Become a solid full-stack developer (I’m starting a full-time school soon)
+•	Build real projects that actually solve problems
+•	Land my first job in tech and grow long-term
 ]
-📫 Let's connect:
+
+📫 Let’s Connect
 [
-  LinkedIn - (coming soon)
-  GitHub - DMs always open
+•	LinkedIn: coming soon
+•	GitHub: my DMs are always open
 ]
 
 ```
@@ -24,10 +26,10 @@
 ## GitHub Stats:
 
 <div style="display: flex;">
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api?username=sashimye&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"
     width="50%"
-/>
+/> -->
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=sashimye&theme=blue_navy&hide_border=false"
     width="50%"
